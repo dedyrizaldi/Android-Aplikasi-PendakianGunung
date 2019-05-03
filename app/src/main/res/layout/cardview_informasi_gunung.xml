@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="150dp"
+    android:layout_height="240dp"
+    xmlns:cardview="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="7dp"
+    cardview:cardCornerRadius="4dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/card_image_gunung"
+            android:layout_width="match_parent"
+            android:layout_height="160dp"
+            android:scaleType="centerCrop"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/lightgray"
+            android:layout_margin="10dp"/>
+        <TextView
+            android:id="@+id/card_gunung_id"
+            android:textColor="#000"
+            android:textSize="13sp"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="17dp"
+            android:text="Nama Gunung"/>
+        <TextView
+            android:id="@+id/card_ketinggian"
+            android:textColor="#000"
+            android:textSize="13sp"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ketinggian"/>
+        <TextView
+            android:id="@+id/card_status"
+            android:textColor="#000"
+            android:textSize="13sp"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Satus"/>
+
+
+    </LinearLayout>
+</android.support.v7.widget.CardView>

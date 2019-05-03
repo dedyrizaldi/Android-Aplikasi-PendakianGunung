@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <color name="colorPrimary">#00bfbf</color>
+        <color name="colorPrimaryDark">#555959</color>
+        <color name="colorAccent">#009e9e</color>
+        <color name="white">#ffffff</color>
+        <color name="yello">#f9e001</color>
+        <color name="redlight">#c61948</color>
+        <color name="seablue">#c61989</color>
+        <color name="bluenice">#1987c6</color>
+        <color name="green">#26ae6c</color>
+        <color name="purplegg">#8a19c6</color>
+        <color name="orangenice">#c65519</color>
+        <color name="lightgray">#1ce2a4</color>
+        <color name="colorButtonPressed">#DCE775</color>
+        <color name="colorButton">#CDDC39</color>
+        <color name="starblue">#09c6df</color>
+        <color name="endblue">#0bcce6</color>
+        <color name="graylight">#fafafa</color>
+
+
+
+        <color name="black_overlay">#66000000</color>
+</resources>

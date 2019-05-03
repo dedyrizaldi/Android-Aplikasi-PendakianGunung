@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "project_number": "656859320512",
+    "firebase_url": "https://pendakiangunungapp.firebaseio.com",
+    "project_id": "pendakiangunungapp",
+    "storage_bucket": "pendakiangunungapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656859320512:android:f6531c4a96847b02",
+        "android_client_info": {
+          "package_name": "com.finedev.AplikasiInformasiPendakianGunung"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656859320512-2euubn59cdbipunhisj7dpteuvju340e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.finedev.AplikasiInformasiPendakianGunung",
+            "certificate_hash": "fab04efe1d31cc45700386ddcc72cf0531830e33"
+          }
+        },
+        {
+          "client_id": "656859320512-gtgdctcrh7es212tgpcr4aedg7u0amuo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.finedev.AplikasiInformasiPendakianGunung",
+            "certificate_hash": "5cc2da3bce58862630094b064bf1694a927cd05a"
+          }
+        },
+        {
+          "client_id": "656859320512-0u132c89ouifvgcub5ir7jhd4n9pkt1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDCc--Y840wTkNST-L_7i1t6Opa-w8gYw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656859320512-0u132c89ouifvgcub5ir7jhd4n9pkt1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656859320512:android:1cf62da753aed870",
+        "android_client_info": {
+          "package_name": "com.finedev.adminpendakiangunung"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656859320512-cjcgllrblrmh0e4lrg1pet3n0h665amn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.finedev.adminpendakiangunung",
+            "certificate_hash": "fab04efe1d31cc45700386ddcc72cf0531830e33"
+          }
+        },
+        {
+          "client_id": "656859320512-0u132c89ouifvgcub5ir7jhd4n9pkt1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDCc--Y840wTkNST-L_7i1t6Opa-w8gYw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656859320512-0u132c89ouifvgcub5ir7jhd4n9pkt1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656859320512:android:3f5192377659e250",
+        "android_client_info": {
+          "package_name": "net.simplifiedcoding.firebasedatabaseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656859320512-cd1ru2pt4n5d83sfgmfspu7g0btmhhvv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.simplifiedcoding.firebasedatabaseexample",
+            "certificate_hash": "fab04efe1d31cc45700386ddcc72cf0531830e33"
+          }
+        },
+        {
+          "client_id": "656859320512-0u132c89ouifvgcub5ir7jhd4n9pkt1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDCc--Y840wTkNST-L_7i1t6Opa-w8gYw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656859320512-0u132c89ouifvgcub5ir7jhd4n9pkt1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
